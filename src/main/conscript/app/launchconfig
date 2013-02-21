@@ -4,7 +4,7 @@
   name: httpstatus
   class: me.masahito.App
 [scala]
-  version: 2.9.2
+  version: 2.9.1
 [repositories]
   local
   scala-tools-releases

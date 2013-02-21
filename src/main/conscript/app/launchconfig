@@ -1,0 +1,11 @@
+[app]
+  version: 0.1.0
+  org: me.masahito
+  name: httpstatus
+  class: me.masahito.App
+[scala]
+  version: 2.9.2
+[repositories]
+  local
+  scala-tools-releases
+  maven-central

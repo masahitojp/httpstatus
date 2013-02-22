@@ -14,6 +14,7 @@ setup conscript_
 .. _conscript: https://github.com/n8han/conscript
 
 ::
+
   $ https://github.com/masahitojp/httpstatus.git
   $ cd httpstatus
   $ sbt publish-local
